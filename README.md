@@ -1,2 +1,6 @@
 # Interactive_Video
-Interactive Video
+Technology Stack
+HTML5
+CSS3
+Javascript
+jQuery
