@@ -1,5 +1,5 @@
 # Interactive_Video
-Technology Stack <br> <br>
+<b> Used Technologies :- </b> <br> <br>
 HTML5 <br>
 CSS3 <br>
 Javascript <br>
